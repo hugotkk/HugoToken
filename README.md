@@ -21,6 +21,11 @@ Start the local server
 genache-cli
 ```
 
+Install the packages
+``` bash 
+npm install
+```
+
 Deploy token
 ``` bash
 truffle migration
