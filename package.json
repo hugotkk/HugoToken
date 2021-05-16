@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@openzeppelin/contracts": "^4.1.0",
+    "@openzeppelin/test-helpers": "github:OpenZeppelin/openzeppelin-test-helpers",
+    "chai": "^4.3.4",
     "truffle": "^5.3.6"
   }
 }
