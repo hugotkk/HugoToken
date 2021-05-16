@@ -3,7 +3,7 @@ Studying from:
 
 - [Build a Real World ICO](https://www.youtube.com/watch?v=2IqsgSyA8BQ&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN)
 
-Notice: there are some materials of the tutorial, I just use my own way to do that.
+Notice: there are some materials is out of date. I just use my own way to do that.
 
 # Libraries:
 - Contract Templates: [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
